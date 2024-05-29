@@ -1,0 +1,15 @@
+.CaptionedImage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.CaptionedImage-image-container {
+}
+
+.CaptionedImage-caption {
+    font-weight: bold;
+    font-size: 0.75rem;
+}
